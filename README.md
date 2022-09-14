@@ -19,6 +19,7 @@
 
 Clone desenvolvido para fins didáticos. <br> 
 O intuito foi colocar em prática componentização e compilação usando npm, Sass e Webpack.<br>
+Veja o projeto base [aqui](https://github.com/caiquedv/b7lp_base-project).
 
 
 <h2>:eyes: Deploy</h2>
